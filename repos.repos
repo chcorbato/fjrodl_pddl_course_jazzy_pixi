@@ -1,0 +1,21 @@
+repositories:
+  PDDL-course:
+    type: git
+    url: https://github.com/fjrodl/PDDL-course.git
+    version: db5e3440337a23c39604addbaf873c266f4c5033  # HEAD as of 2026-06-29
+  fmrico/popf:
+    type: git
+    url: https://github.com/gavanderhoorn/popf.git
+    version: 0710571029e9ff7544741ca5d5da8fac0173e5fc  # jazzy-devel
+  turtlebot3:
+    type: git
+    url: https://github.com/MOGI-ROS/turtlebot3
+    version: 0e2258ef24182145eaacb6a6fd7687e31c8577fd  # mogi-ros2
+  turtlebot3_msgs:
+    type: git
+    url: https://github.com/MOGI-ROS/turtlebot3_msgs
+    version: 21a58b5cee57a8e5f1d1b5b2f7426d2eb0f3c76d  # ros2
+  turtlebot3_simulations:
+    type: git
+    url: https://github.com/MOGI-ROS/turtlebot3_simulations
+    version: f63b3c5305a3b79648dcc1216c065d6c7f9d8694  # new_gazebo
